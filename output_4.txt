@@ -1,0 +1,46 @@
+Commit ID: 81fe0c28b7a2d665bb93aa6069a6fc4cc74e51cd
+Commit Line: 1
+Commit File:  1
+Commit insertions: 1
+Commit deletions: 0
+Initial commit
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmp32duauey\Git_Report_Statistic
+README.md
+Commit ID: 9167920582624bb7666f383b554ab4b847a14d83
+Commit Line: 19
+Commit File:  1
+Commit insertions: 19
+Commit deletions: 0
+First Commit
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmp32duauey\Git_Report_Statistic
+C.java
+Commit ID: 88343088966ff9bb83d41fc582c3f550bcdef531
+Commit Line: 74
+Commit File:  3
+Commit insertions: 74
+Commit deletions: 0
+add files
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmp32duauey\Git_Report_Statistic
+github.py
+output_2.txt
+output_3.csv
+Commit ID: 375cb3cca51e266538e89fcd2267dafcdfaf2575
+Commit Line: 4
+Commit File:  1
+Commit insertions: 2
+Commit deletions: 2
+C1: M1
+
+C1: M1
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmp32duauey\Git_Report_Statistic
+C.java
+Commit ID: 860eae311b30f5261d575d7104519c9526e4921e
+Commit Line: 2
+Commit File:  1
+Commit insertions: 1
+Commit deletions: 1
+C2: M2
+
+C2: M2
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmp32duauey\Git_Report_Statistic
+C.java

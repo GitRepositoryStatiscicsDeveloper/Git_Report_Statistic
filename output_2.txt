@@ -1,0 +1,16 @@
+Commit ID: 81fe0c28b7a2d665bb93aa6069a6fc4cc74e51cd
+Commit Line: 1
+Commit File:  1
+Commit insertions: 1
+Commit deletions: 0
+Initial commit
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmpjnm89d_4\Git_Report_Statistic
+README.md
+Commit ID: 9167920582624bb7666f383b554ab4b847a14d83
+Commit Line: 19
+Commit File:  1
+Commit insertions: 19
+Commit deletions: 0
+First Commit
+Commit project_path: C:\Users\MyComputer\AppData\Local\Temp\tmpjnm89d_4\Git_Report_Statistic
+C.java
